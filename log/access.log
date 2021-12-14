@@ -1,0 +1,6 @@
+30f846f3-4517-4499-bf9f-7aaa51a7d0fe 200 ::1 GET /dashboard 115.116 [Wed, 03 Nov 2021 10:07:38 GMT] - [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36]
+596b6af6-89bd-47e8-8d8c-a82df41b20a8 200 ::1 GET / 54.054 [Wed, 03 Nov 2021 12:50:17 GMT] - [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36]
+5e8c845c-6214-408c-9ce7-51079ed8c254 302 ::1 POST /login 378.969 [Wed, 03 Nov 2021 12:50:24 GMT] - [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36]
+fb3b0025-db06-49d5-868b-be174969cd11 200 ::1 GET /dashboard 28.663 [Wed, 03 Nov 2021 12:50:24 GMT] - [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36]
+503c0368-bc77-4488-b0ff-a328a7d9bea4 304 ::1 GET /dashboard 131.906 [Wed, 03 Nov 2021 13:18:09 GMT] - [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36]
+d9a1d54a-93b6-4d3b-a3d8-bc4f07233da8 200 ::1 GET /generateLogs 77.178 [Wed, 03 Nov 2021 13:26:43 GMT] - [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36]

@@ -1,0 +1,38 @@
+<section>
+    <div class="lgp-hd">
+        <h2><strong>ORANGE SL DEVICE INFORMATION SYSTEM login page</strong></h2>
+        <h5><strong>login to view Dashboard</strong></h5>
+    </div>
+    <div class="container login-cont">
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-4 col-lg-4 offset-1 offset-sm-3 offset-md-4 offset-lg-4 login-col"><img src="/img/orange.png" style="width: 80px;margin-bottom: 15px;">
+                <%- include('partials/messages') %>
+                               
+                <form action= "/login" method="post" class="user">
+                    
+                    <div class="form-group">
+                        <input 
+                        class="form-control form-control-user" 
+                        type="name" id="exampleInputUsername"  
+                        aria-describedby="usernameHelp" 
+                        placeholder="Enter Username ......" 
+                        name="username"
+                        value="<%- typeof username != 'undefined' ? username : '' %>">
+                    </div>
+                    <div class="form-group">
+                        <input 
+                        class="form-control form-control-user" 
+                        type="password" 
+                        id="exampleInputPassword" 
+                        placeholder="Password" 
+                        name="password"
+                        value="<%- typeof password != 'undefined' ? password : '' %>">
+                    </div>
+                    <div><button class="btn btn-primary login-btn btn-block text-white btn-user" type="submit"> <strong>Login</strong></button>
+                   
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+ 
